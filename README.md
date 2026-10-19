@@ -13,5 +13,6 @@ Full-stack and AI engineer with 3+ years of experience shipping production web a
 
 #### Featured projects
 - **[Focus](https://github.com/UnbiasedEagle/focus)**: productivity dashboard with Kanban, Pomodoro, habits and journaling (Next.js, Drizzle, PostgreSQL). [Live](https://getfocus.vercel.app/)
+- **[DevStash](https://github.com/UnbiasedEagle/devstash)**: a hub for developer snippets, prompts, commands and links, with email and GitHub sign-in and free and Pro plans (Next.js, Prisma, Neon PostgreSQL). [Live](https://getdevstash.com)
 - **[MeetSync](https://github.com/UnbiasedEagle/meetsync)**: WebRTC video conferencing with invite links and email invites (Next.js, Spring Boot)
 - **[Service template](https://github.com/UnbiasedEagle/mern-service-template)**: production-ready Node.js + TypeScript service starter (Express 5, logging, tests, linting)
